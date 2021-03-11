@@ -1,8 +1,12 @@
 # Iphp standard edition
 
-Iphp est un framework php contenant des outils essentiels pour améliorer le développement web en Php
+Iphp est un framework php contenant des outils essentiels pour améliorer le développement web en PHP
 
 ## Installation
+Vous avez juste à télécharger IPHP en lançant la commande
+```bash
+git clone https://github.com/karamokoisrael/Iphp-se.git
+```
 
 ```php
 echo "Welcome to Iphp";
@@ -12,20 +16,13 @@ echo "Welcome to Iphp";
 pip install foobar
 ```
 
-## Usage
+## Architecture
 
 ```python
 import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Stephane N'cho
 
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
