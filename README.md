@@ -1,10 +1,12 @@
 # Iphp standard edition
 
-Foobar is a Python library for dealing with word pluralization.
+Iphp est un framework php contenant des outils essentiels pour améliorer le développement web en Php
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+```php
+echo "Welcome to Iphp";
+```
 
 ```bash
 pip install foobar
